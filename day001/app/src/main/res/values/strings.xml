@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Day001</string>
+    <string name="placeholder_num_str">-1</string>
+    <string name="title_fragment_two">Fragment Two</string>
+    <string name="title_fragment_one">Fragment One</string>
+    <string name="button_go_forward">Go Forward</string>
+    <string name="button_go_back">Go Back</string>
+</resources>
